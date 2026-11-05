@@ -1,4 +1,4 @@
-# Hi there, I'm Thrito-Solance (call be either or both) 👋
+# Hi there, I'm Thrito-Solance 👋 (you can call me those names together or separately)
 
 I design and build **high-performance, secure, and mathematically sophisticated backend architectures**. My work focuses heavily on **IP Isolation and Secure API Sandboxing**—taking volatile, complex, or proprietary engine cores (such as Machine Learning, CAD geometry, and Lean 4 formal verification engines) and wrapping them in bulletproof, containerised, and token-authenticated boundaries.
 
